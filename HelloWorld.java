@@ -7,9 +7,10 @@ public class HelloWorld {
   
   // Then begin typing "main" and select Intellicode prompt
   public static void main(String[] args) {
-    // Then begin typing "sysout" and select IntelliCode prompt
+    // Then begin typing "sysout" and select IntelliCode prompt, enter "Hello World" and Run
     System.out.println("Hello World");
     
 }
   
 }
+
